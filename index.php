@@ -1,5 +1,8 @@
 <?php
 
+
+
+
 //http://localhost:8080/?url=https://v.douyin.com/w84nHk/
 
 $matchVideoUrlReg = '/https:\/\/(aweme|dou)\.(.*?)\.(com)([\w\.\?\/\=\&\;]*)?/'; // 匹配中转页视频地址
